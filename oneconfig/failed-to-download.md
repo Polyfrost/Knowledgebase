@@ -30,7 +30,7 @@ Since OneConfig downloads its core files from another server, some antiviruses w
 
 * Make sure all antivirus software is up-to-date
 * Check that your antivirus isn't blocking OneConfig or other Polyfrost services
-z
+
 ## Using a VPN
 
 Occasionally, your ISP (internet service provider) or country may block access to certain websites such as GitHub or our own services. Using a [VPN](https://1.1.1.1/dns/) can allow you, to some extent circumvent these issues.
