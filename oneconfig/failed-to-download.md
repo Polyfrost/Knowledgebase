@@ -48,3 +48,7 @@ North Korea
 China
 
 </details>
+
+## Download OneConfig directly
+
+If you are still unable to download OneConfig, you may want to download it manually. You can do that by clicking [here](https://api.polyfrost.org/oneconfig/1.8.9-forge). When the file is finished downloading it, move it to `.minecraft/OneConfig`, if this folder does not exist create it, then rename it to `OneConfig (1.8.9-forge).jar`. You can now try launching again.
