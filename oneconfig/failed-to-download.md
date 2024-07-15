@@ -29,7 +29,7 @@ Some mods, including "Feather Client" and "Oringo," will not work with OneConfig
 Since OneConfig downloads its core files from another server, some antiviruses will detect it as a form of malware & block it. McAfee, for example, used to detect our servers as a PUP.&#x20;
 
 * Make sure all antivirus software is up-to-date
-* Check that your virus isn't blocking OneConfig or other Polyfrost services
+* Check that your antivirus isn't blocking OneConfig or other Polyfrost services
 
 ## Using a VPN
 
