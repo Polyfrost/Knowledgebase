@@ -26,7 +26,7 @@ Some mods, including "Feather Client" and "Oringo," will not work with OneConfig
 
 ## Check antivirus
 
-Since OneConfig downloads its core files from another server, some antiviruses will detect it as a form of malware & block it. McAfee, for example, used to detect our servers as a PUP.&#x20;
+Since OneConfig downloads its core files from another server, some antiviruses will detect it as a form of malware & block it. McAfee, for example, used to detect our servers as a PUP.
 
 * Make sure all antivirus software is up-to-date
 * Check that your antivirus isn't blocking OneConfig or other Polyfrost services
@@ -51,5 +51,10 @@ China
 
 ## Download OneConfig directly
 
-If you are still unable to download OneConfig, you may want to download it manually. Start by opening [this](https://api.polyfrost.org/oneconfig/1.8.9-forge). Here, highlight the first link (do not highlight the quotation marks), right click and press "go to https://...." ![image](https://github.com/user-attachments/assets/7b8bfd4f-0ab3-493e-ac32-fffec7a32dfb)
+If you are still unable to download OneConfig, you may want to download it manually. Start by opening [this](https://api.polyfrost.org/oneconfig/1.8.9-forge). Here, highlight the first link (do not highlight the quotation marks), right click and press "go to https://...."&#x20;
+
+&#x20;
+
+<figure><img src="https://github.com/user-attachments/assets/7b8bfd4f-0ab3-493e-ac32-fffec7a32dfb" alt=""><figcaption></figcaption></figure>
+
 Upon clicking this, it will download a file, when that file is finished downloading, move it to `<your minecraft folder>/OneConfig`, if this folder does not exist create it. Once relocated, rename the jar file that you downloaded from the link to `OneConfig (1.8.9-forge).jar`. You can then try launching the game to see if OneConfig is present.
