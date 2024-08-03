@@ -9,14 +9,24 @@
 
 ***
 
+## SkyClient
+
+* [Config Override](skyclient/config-override.md)
+
+***
+
 ## Launchers
 
-* [Minecraft Launcher Issues](minecraft-launcher-issues.md)
-* [Prism Launcher Issues](prism-launcher-issues.md)
+* [Minecraft Launcher Issues](launchers/minecraft-launcher-issues.md)
+* [Prism Launcher Issues](launchers/prism-launcher-issues.md)
 
 ***
 
 ## Internal Policies
 
-* [Suggestion Tags](/suggestion-tags.md)
-* [Ticket Bumping](/ticket-bumping.md)
+* [Suggestion Tags](internal_policies/suggestion-tags.md)
+* [Ticket Bumping](internal_policies/ticket-management.md)
+
+***
+
+* [License](documentation-license.md)
