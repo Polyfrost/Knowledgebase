@@ -9,5 +9,13 @@
 
 ***
 
+## Launchers
+
 * [Minecraft Launcher Issues](minecraft-launcher-issues.md)
 * [Prism Launcher Issues](prism-launcher-issues.md)
+
+***
+
+## Internal Policies
+
+* [Suggestion Tag](/suggestion-tags.md)
