@@ -6,12 +6,17 @@
 
 * [Failed to download](oneconfig/failed-to-download.md)
 * [Screen not appearing / White background](oneconfig/screen-not-appearing-white-background.md)
+* [Other GL Errors](oneconfig/misc-graphics-library-errors.md)
+* [Medal Recording Software](oneconfig/medal-recording-issues.md)
+* [Block Lines / NVidia Antialiasing Issue](oneconfig/block-lines-antialiasing.md)
 
 ***
 
 ## SkyClient
 
 * [Config Override](skyclient/config-override.md)
+* [Auth Error](skyclient/dungeonsguide-auth-error.md)
+* [Zip Exception / Corrupted Mod](skyclient/zip-exception-corrupted-mod.md)
 
 ***
 
@@ -25,7 +30,7 @@
 ## Internal Policies
 
 * [Suggestion Tags](internal_policies/suggestion-tags.md)
-* [Ticket Bumping](internal_policies/ticket-management.md)
+* [Ticket Management](internal_policies/ticket-management.md)
 
 ***
 
