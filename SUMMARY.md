@@ -18,4 +18,5 @@
 
 ## Internal Policies
 
-* [Suggestion Tag](/suggestion-tags.md)
+* [Suggestion Tags](/suggestion-tags.md)
+* [Ticket Bumping](/ticket-bumping.md)
