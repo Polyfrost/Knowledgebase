@@ -2,23 +2,23 @@
 
 ## TL;DR
 
-- Check the [status page](https://status.polyfrost.cc/)
-- Try using [OneConfig Bootstrap](https://modrinth.com/mod/oneconfig?hl=en-US)
-- Check for any conflicting mods
-- Check your antivirus
-- Use a VPN
+* Check the [status page](https://status.polyfrost.cc/)
+* Try using [OneConfig Bootstrap](https://modrinth.com/mod/oneconfig?hl=en-US)
+* Check for any conflicting mods
+* Check your antivirus
+* Use a VPN
 
 ## Check Polyfrost status
 
 While rare, our backend systems may be undergoing maintenance or experiencing an outage. Check the [status page](https://status.polyfrost.cc/) for any updates.
 
-{% embed url="<https://status.polyfrost.cc/>" %}
+{% embed url="https://status.polyfrost.cc/" %}
 
 ## Launch bootstrap alone
 
 Make sure none of your other mods are causing any incompatibilities by downloading & running [OneConfig Bootstrap](https://modrinth.com/mod/oneconfig?hl=en-US) by itself. This is an empty OneConfig install that doesn't depend on anything, and will only download OneConfig.
 
-{% embed url="<https://modrinth.com/mod/oneconfig?hl=en-US>" %}
+{% embed url="https://modrinth.com/mod/oneconfig?hl=en-US" %}
 
 ## Check for any conflicting mods
 
@@ -28,8 +28,8 @@ Some mods, including "Feather Client" and "Oringo," will not work with OneConfig
 
 Since OneConfig downloads its core files from another server, some antiviruses will detect it as a form of malware & block it. McAfee, for example, used to detect our servers as a PUP.
 
-- Make sure all antivirus software is up-to-date
-- Check that your antivirus isn't blocking OneConfig or other Polyfrost services
+* Make sure all antivirus software is up-to-date
+* Check that your antivirus isn't blocking OneConfig or other Polyfrost services
 
 ## Using a VPN
 
