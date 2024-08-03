@@ -1,5 +1,5 @@
 ---
-description: Fix for the error `java.util.zip.ZipException: error in opening zip file`.
+description: "Fix for the error `java.util.zip.ZipException: error in opening zip file`".
 ---
 
 # Zip Exception
