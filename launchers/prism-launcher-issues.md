@@ -85,4 +85,3 @@ For a more detailed version, refer to Step 5 in [Microcontroller's guide](https:
 * Take a screenshot of the `Mods` tab and upload it to your ticket, if applicable
 * If mods aren't showing, and either **empty** or only show **folders**, the mods were incorrectly installed
   * For Windows users, we highly recommend watching this [video guide](https://www.youtube.com/watch?v=DEGaD-\_HFCE)
-
