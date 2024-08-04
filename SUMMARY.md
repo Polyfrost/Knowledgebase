@@ -2,6 +2,18 @@
 
 * [Polyfrost knowledgebase](README.md)
 
+***
+
+## General stuff
+
+* [Fixing crashes](general/fixing-crashes.md)
+* [Types of logs](general/types-of-logs.md)
+
+## Issue diagnosing
+
+* [Binary searching](diagnosing_issues/binary_search.md)
+* [Profiling a Spark log](diagnosing_issues/spark.md)
+
 ## OneConfig
 
 * [Failed to download](oneconfig/failed-to-download.md)
@@ -24,6 +36,7 @@
 
 * [Minecraft Launcher Issues](launchers/minecraft-launcher-issues.md)
 * [Prism Launcher Issues](launchers/prism-launcher-issues.md)
+* [Other launchers & clients](launchers/other-launchers-and-clients.md)
 
 ***
 
