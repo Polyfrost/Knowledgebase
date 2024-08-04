@@ -1,5 +1,5 @@
 ---
-description: Most issues are dumb, but can be easily fixed within the launcher.
+description: Most issues are simple and can be easily fixed within the launcher.
 ---
 
 # Minecraft Launcher Issues
