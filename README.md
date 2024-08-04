@@ -18,7 +18,7 @@ Welcome new mods or anyone encountering this page.
 
 
 
-1.8.9 is almost [8 years old](https://howoldisminecraft189.today) as of 2023, so you might imagine support for Minecraft mods has improved in that time period. However, this is definitely not the case.
+1.8.9 is over [8 years old](https://howoldisminecraft189.today) as of 2024, so you might imagine support for Minecraft mods has improved in that time period. However, this is definitely not the case.
 
 
 
