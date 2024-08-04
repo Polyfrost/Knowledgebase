@@ -2,6 +2,11 @@
 
 * [Polyfrost knowledgebase](README.md)
 
+## General
+
+* [Fixing crashes](general/fixing-crashes.md)
+* [Types of logs](general/types-of-logs.md)
+
 ## OneConfig
 
 * [Failed to download](oneconfig/failed-to-download.md)
