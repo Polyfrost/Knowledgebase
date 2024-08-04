@@ -1,5 +1,5 @@
 ---
-description: What type of logs do I send???
+description: What type of log do I provide?
 ---
 
 # Types of logs
@@ -26,11 +26,9 @@ This log is generated in `.minecraft/crash-reports` and is the file that is name
 
 ## Spark logs
 
-Spark logs, also known as spark profiles, are logs that measure the performance of your game. This includes TPS, FPS, ping (ms) and more, as well as a breakdown of Minecraft processes that are being loaded. This log is helpful if you find that you are experiencing performance issues.
+Spark logs, also known as Spark profiles, are logs that measure the performance of your game. This includes TPS, FPS, ping (ms) and more, as well as a breakdown of Minecraft processes that are being loaded. This log is helpful if you find that you are experiencing performance issues.
 
-To generate a spark log, you must download and install Spark as a mod. For versions 1.16.5-1.21, the official mod can be found [here](https://modrinth.com/mod/spark). For versions 1.8.9 and 1.12.2, there is no official spark mod, but you may use [this fork made by nea89o](https://jitpack.io/com/github/romangraef/spark/spark-forge189/bde4ce2ff/spark-forge189-bde4ce2ff-mod.jar) for 1.8.9 and [this fork made by fonnymunkey](https://modrinth.com/mod/spark-unforged) for 1.12.2.
-
-Then, run `/sparkc profiler start` and do activites that would cause the performance issue. Once finished you may stop logging with `/sparkc profiler stop` and share the link in chat to the person helping you.
+You can find instructions for using Spark [here](../diagnosing_issues/spark.md)
 
 ## hs_err_pid logs
 

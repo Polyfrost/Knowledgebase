@@ -7,6 +7,11 @@
 * [Fixing crashes](general/fixing-crashes.md)
 * [Types of logs](general/types-of-logs.md)
 
+## Diagnosing issues
+
+* [Binary searching](diagnosing_issues/binary_search.md)
+* [Profile a Spark log](diagnosing_issues/spark.md)
+
 ## OneConfig
 
 * [Failed to download](oneconfig/failed-to-download.md)
