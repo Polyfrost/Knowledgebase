@@ -16,4 +16,4 @@ Turn antialiasing off.
 
 Navigate to 3D settings in the NVidia Control Panel and enable `Let the 3D application decide`.
 
-<figure><img src="../.gitbook/assets/Medal Recording Software Issue.webp" alt=""></figure>
+<figure><img src="../.gitbook/assets/nVidia Antialiasing Fix.webp" alt=""></figure>
