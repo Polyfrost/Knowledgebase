@@ -4,7 +4,7 @@ description: Fix for NVidia Graphics or antialiasing issues.
 
 # Problematic Block Lines - NVidia Antialiasing Issue
 
-If the user sees lines on blocks, they most likely have an NVidia GPU or have antialiasing on.(which if so, just turn it off)
+If the user sees lines on blocks, they most likely have an NVidia GPU or have antialiasing on. (which if so, just turn it off)
 
 ## Solutions
 

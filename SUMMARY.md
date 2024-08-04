@@ -6,16 +6,12 @@
 
 * [Failed to download](oneconfig/failed-to-download.md)
 * [Screen not appearing / White background](oneconfig/screen-not-appearing-white-background.md)
-* [Other GL Errors](oneconfig/misc-graphics-library-errors.md)
-* [Medal Recording Software](oneconfig/medal-recording-issues.md)
-* [Block Lines / NVidia Antialiasing Issue](oneconfig/block-lines-antialiasing.md)
 
 ***
 
 ## SkyClient
 
 * [Config Override](skyclient/config-override.md)
-* [Auth Error](skyclient/dungeonsguide-auth-error.md)
 * [Zip Exception / Corrupted Mod](skyclient/zip-exception-corrupted-mod.md)
 
 ***
@@ -24,6 +20,16 @@
 
 * [Minecraft Launcher Issues](launchers/minecraft-launcher-issues.md)
 * [Prism Launcher Issues](launchers/prism-launcher-issues.md)
+
+***
+
+## General Known Issues
+
+* [Block Lines / NVidia Antialiasing Issue](general/block-lines-antialiasing.md)
+* [Medal Recording Software](general/medal-recording-issues.md)
+* [DungeonsGuide Auth Error](general/dungeonsguide-auth-error.md)
+* [Other GL Errors](general/misc-graphics-library-errors.md)
+* [Reading Logs](general/reading-logs.md)
 
 ***
 
