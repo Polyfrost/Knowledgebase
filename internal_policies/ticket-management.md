@@ -28,3 +28,15 @@ The user has not said anything in ~6 hours. Generally, if they haven't said anyt
 
 <figure><img src="../.gitbook/assets/Ticket Bumping Example Two.webp" alt=""><figcaption></figcaption></figure>
 
+## Logs
+
+### Obtaining New Logs
+
+In a ticket, if you suggest a fix to the user and they stay, "it still crashes," **ALWAYS MAKE THEM RE-SEND THE NEW LOG**
+It is very possible that they are now experiencing a completely different issue!
+
+### Reading Logs
+
+Tl;dr, read the first couple lines of each exception line until you see a certain mod.
+
+<figure><img src="../.gitbook/assets/Reading Logs Example.webp" alt=""><figcaption></figcaption></figure>
