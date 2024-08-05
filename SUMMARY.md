@@ -47,4 +47,15 @@
 
 ***
 
+## General Known Issues
+
+* [Block Lines / NVidia Antialiasing Issue](general/block-lines-antialiasing.md)
+* [Medal Recording Software](general/medal-recording-issues.md)
+* [DungeonsGuide Auth Error](general/dungeonsguide-auth-error.md)
+* [Zip Exception / Corrupted Mod](general/zip-exception-corrupted-mod.md)
+* [Other GL Errors](general/misc-graphics-library-errors.md)
+* [Reading Logs](general/reading-logs.md)
+
+***
+
 * [License](documentation-license.md)
