@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Polyfrost knowledgebase](README.md)
+* [License](documentation-license.md)
+
 
 ***
 
@@ -47,7 +49,3 @@
 
 * [Suggestion Tags](internal_policies/suggestion-tags.md)
 * [Ticket Management](internal_policies/ticket-management.md)
-
-***
-
-* [License](documentation-license.md)
