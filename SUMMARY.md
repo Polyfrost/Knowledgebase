@@ -2,6 +2,8 @@
 
 * [Polyfrost knowledgebase](README.md)
 
+***
+
 ## Issue diagnosis
 
 * [Reading Logs](diagnosing_issues/reading-logs.md)
