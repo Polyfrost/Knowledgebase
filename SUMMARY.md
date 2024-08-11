@@ -27,6 +27,7 @@
 
 * [Minecraft Launcher Issues](launchers/minecraft-launcher-issues.md)
 * [Prism Launcher Issues](launchers/prism-launcher-issues.md)
+* [Info regarding support for other launchers and clients](launchers/other-launchers-and-clients.md)
 
 ***
 
