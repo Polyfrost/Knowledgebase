@@ -21,11 +21,11 @@ Different Minecraft exit codes have useful information located elsewhere. Click 
 
 <summary>Exit codes and their corresponding logs</summary>
 
-* Long negative exit codes (e.g. -8679432150): These are usually JVM crashes. These logs should be located in `.minecraft/hs_err_pid_(random numbers).log`. If you just crashed and this log was made afterwards, DO NOT SEND THE ENTIRE LOG as it can contain information that could be used to hijack your Minecraft account. Instead, copy the lines at the beginning that start with `#`.
-* Exit Code 0 (or any crash that doesn't have a `View Crash Log` button in the default launcher): The relevant log should be located at `.minecraft/logs/latest` or `.minecraft/logs/latest.log`.
-* Any other crashes: The crash report should be located at `.minecraft/crash-reports/crash-(current date and time).log`.
+* Long negative exit codes (e.g. -8679432150): These are usually JVM crashes. These logs should be located in `<your Minecraft folder>/hs_err_pid_(random numbers).log`.
+* Exit Code 0 (or any crash that doesn't have a `View Crash Log` button in the default launcher): The relevant log should be located at `<your Minecraft folder>/logs/latest` or `<your Minecraft folder>/logs/latest.log`.
+* Any other crashes: The crash report should be located at `<your Minecraft folder>/crash-reports/crash-(current date and time).log`.
 
-Once the information has been copied, paste it into the [mclo.gs service](https://mclo.gs/) and give the link to the person helping you.
+Once the information has been copied, paste it into the [mclo.gs service](https://mclo.gs/) and give the link to the person helping you. If you are playing on a version older than 1.9 (e.g 1.8.9, 1.7.10), you should ALWAYS upload it to this service as your log could contain your session ID.
 
 </details>
 
