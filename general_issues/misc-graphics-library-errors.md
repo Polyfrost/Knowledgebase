@@ -7,6 +7,7 @@ description: Documented fixes for miscellaneous graphical errors.
 ## Possible Fixes
 
 ### Launcher
+
 GDLauncher seems to cause strange issues with OpenGL. Tell the user to switch to Prism, Modrinth, or the vanilla Minecraft launcher.
 
 ### Monitor Refresh Rate
