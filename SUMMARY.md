@@ -33,7 +33,7 @@
 * [DungeonsGuide Auth Error](general\_issues/dungeonsguide-auth-error.md)
 * [Zip Exception / Corrupted Mod](general\_issues/zip-exception-corrupted-mod.md)
 * [Other GL Errors](general\_issues/misc-graphics-library-errors.md)
-* [Skyhanni Gold Enchantment Glint](general\_issues/gold-enchantment-color.md)
+* [Skyhanni Gold Enchantment Glint](general\_issues/gold-enchantment-text-color.md)
 
 ## Internal Policies
 
