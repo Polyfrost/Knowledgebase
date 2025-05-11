@@ -58,3 +58,9 @@ If you are still unable to download OneConfig, you may want to download it manua
 <figure><img src="../.gitbook/assets/Manual Release Copy Screenshot.png" alt=""><figcaption></figcaption></figure>
 
 Upon clicking this, it will download a file, when that file is finished downloading, move it to `<your minecraft folder>/OneConfig`, if this folder does not exist create it. Once relocated, rename the jar file that you downloaded from the link to `OneConfig (1.8.9-forge).jar`. You can then try launching the game to see if OneConfig is present.
+
+If you are **still** getting an error. [On the same link as opened prior](https://api.polyfrost.org/oneconfig/1.8.9-forge), highlight the last link (do not highlight the quotation marks), right click and press "go to "go to https://...."
+
+Upon clicking this, it will download another file, when that file is finished downloading, move it to `<your minecraft folder>/OneConfig/launchwrapper`, if this folder does not exist create it. Once relocated, rename the jar file that you downloaded from the link to `OneConfig-Loader.jar`. You can then try launching the game to see if OneConfig is present.
+
+If you are **still** having trouble, please open a ticket in [our Discord](https://inv.wtf/polyfrost).
