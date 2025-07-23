@@ -4,7 +4,7 @@ description: How to do a binary search (aka a thanos search)
 
 # Binary search
 
-One useful way to identify the cause of a crash is to perform what's known as a "binary search" (you may also know it as thanos searching). The idea is to halve your mod count to identify the issue faster than testing mods one by one.
+One useful way to identify the cause of a crash is to perform what's known as a "binary search" (you may also know it as thanos searching). The idea is to halve your mod count to identify the issue faster than testing mods one by one.\
 This is a great way to figure out the cause of the crash even if the log isn't helpful.
 
 <details>

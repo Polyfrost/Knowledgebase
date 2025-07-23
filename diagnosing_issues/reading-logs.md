@@ -2,7 +2,7 @@
 
 ## Obtaining New Logs
 
-In a ticket, if you suggest a fix to the user and they stay, "it still crashes," **ALWAYS MAKE THEM RE-SEND THE NEW LOG**
+In a ticket, if you suggest a fix to the user and they stay, "it still crashes," **ALWAYS MAKE THEM RE-SEND THE NEW LOG**\
 It is very possible that they are now experiencing a completely different issue!
 
 ## Finding Problematic Mods

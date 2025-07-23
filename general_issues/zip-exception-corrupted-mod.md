@@ -2,10 +2,9 @@
 description: Fix for the Java Zip Exception error.
 ---
 
-# Zip Exception
+# Zip Exception / Corrupted Mod
 
-This page concerns the following error:
-`java.util.zip.ZipException: error in opening zip file`
+This page concerns the following error:`java.util.zip.ZipException: error in opening zip file`
 
 You likely have a corrupted mod (hopefully indicated by the log).
 

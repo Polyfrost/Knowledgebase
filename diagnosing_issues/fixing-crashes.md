@@ -2,7 +2,7 @@
 description: Helpful information for diagnosing crashes.
 ---
 
-# Fixing crashes
+# Fixing Crashes
 
 ## TL;DR
 
@@ -31,7 +31,7 @@ Once the information has been copied, paste it into the [mclo.gs service](https:
 
 ## Multiple crashes
 
-If you are experiencing a crash, removed the suspected cause, and you are still crashing, you may now have a different issue.
+If you are experiencing a crash, removed the suspected cause, and you are still crashing, you may now have a different issue.\
 This is usually indicated by the stacktrace in your crashlog looking different. In this case, you should always resend your crashlog to whoever is helping you! This way, they will be able to see the new log.
 
 ## Weird mods showing in crashes
